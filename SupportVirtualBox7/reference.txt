@@ -1,2 +1,4 @@
 1. pliki do podamina w katalogu 
 C:\HashiCorp\Vagrant\embedded\gems\2.2.3\gems\vagrant-2.2.3\plugins\providers\virtualbox
+oraz pliki version_*.rb, base.rb, meta.rb
+C:\HashiCorp\Vagrant\embedded\gems\2.2.3\gems\vagrant-2.2.3\plugins\providers\virtualbox\driver
