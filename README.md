@@ -25,3 +25,6 @@ vagrant init bento/ubuntu-18.04
 ``` shell
 vagrant ssh
 ```
+
+Adding support for VirtualBox 7.0and 7.1
+https://blogs.oracle.com/scoter/post/getting-vagrant-23-working-with-oracle-vm-virtualbox-70-beta
